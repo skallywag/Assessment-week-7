@@ -1,0 +1,32 @@
+extraLargeArray:
+
+  double insert time = insert 1.6262322280000001 s
+
+   double append time = 4.416839 ms
+
+largeArray: 
+
+    double insert time = 
+
+    double append time =
+
+mediumArray:
+
+    double insert time = 
+
+    double append time =
+
+smallArray: 
+
+    double insert time = 
+
+    double append time =
+
+tinyArray:
+
+    double insert time = 
+
+    double append time =
+
+
+
